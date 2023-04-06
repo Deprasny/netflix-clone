@@ -21,7 +21,7 @@ const Input: React.FC<InputProps> = ({ id, onChange, value, label, type }) => {
           rounded-md
           px-6
           pt-6
-          pb-4
+          pb-2
           w-full
           text-md
           text-white
